@@ -5,8 +5,8 @@ by <a href="http://www.facebook.com/abhijeetd10/">Abhijeet D. Chauhan</a>
 </small>
 <nav>
 <ul>
-<li><%= link_to "About", '#' %></li>
-<li><%= link_to "Contact", '#' %></li>
+<li><%= link_to "About", about_path %></li>
+<li><%= link_to "Contact", contact_path %></li>
 <li><a href="http://news.google.co.in/news/section?cf=all&pz=1&ned=in&topic=tc&siidp=8e2050941d225cdc5da3d0316a956ee596a9&ict=ln/">News</a></li>
 </ul>
 </nav>
