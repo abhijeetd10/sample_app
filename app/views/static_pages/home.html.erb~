@@ -1,12 +1,2 @@
-<% provide(:title, "Home") %>
-<!DOCTYPE html>
-<html>
-<head>
-	<title><%= yield(:title)%> | Sample_APP </title>
-</head>
-<body>
-<h1>Home</h1>
+<h1>Sample Application</h1>
 <p>This is the home page of Tutorial</p>
-
-</body>
-</html>
